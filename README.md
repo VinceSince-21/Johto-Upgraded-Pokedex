@@ -1,5 +1,5 @@
 # Johto-Upgraded-Pokedex
-A group project between 4 bumbling fools who are attempting to create a working Johto (Upgraded) Pokedex.
+A group project between 4 bumbling fools who are attempting to create a working Johto (Upgraded) Pokédex.
 
 3D Modeling: Vaughn
 
