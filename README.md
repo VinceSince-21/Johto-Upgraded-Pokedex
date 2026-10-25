@@ -5,9 +5,11 @@ A group project between 4 bumbling fools who are attempting to create a working 
 
 Model Creation: Vincent
 
-Dataset Updating: Josh
+Dataset Updating: Josh & Vincent
 
 Funding: Tyler
+
+Voice: David & Tyler
 
 # Resources:
 Dataset: https://www.kaggle.com/datasets/noodulz/pokemon-dataset-1000
